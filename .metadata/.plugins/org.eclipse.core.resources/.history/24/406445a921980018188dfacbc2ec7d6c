@@ -102,8 +102,6 @@ int main(void)
   while (1)
   {
 
-	  LL_GPIO_TogglePin(LD2_PIN_GPIO_Port, LD2_PIN_Pin);
-	  LL_mDelay(1000);
   /* USER CODE END WHILE */
 
   /* USER CODE BEGIN 3 */
